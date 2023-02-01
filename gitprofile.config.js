@@ -23,7 +23,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1smZ00y-WiV_BIZ-2qUVVLtKcxwqgblne/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
@@ -36,47 +36,67 @@ const config = {
     'CSS',
     'Antd',
   ],
-  experiences: [
+   certifications: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      name: 'SAP Business One - Certificate of Completion',
+      body: 'SAP Advance (Implementation & Support)',
+      year: 'June 2022',
+      link: 'https://drive.google.com/file/d/1PlFkgyJ1enZ9hA0cDaXPYMkO43Yp2Yvs/view?usp=sharing'
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
-  /* certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Course Certificate',
+      body: 'Cloud Basics: Development and Basic Concepts',
       year: 'March 2022',
-      link: 'https://example.com'
+      link: 'https://drive.google.com/file/d/13xcInST1PCCVVUqUoECrZx_N6X5KuBjR/view?usp=sharing'
     },
-  ], */
+    {
+      name: 'DevFest 2022 Participation',
+      body: 'Breaking the Barriers to Dive into the Future, with the topic User Interface and User Experience Design',
+      year: 'March 2022',
+      link: 'https://drive.google.com/file/d/10wSIxqhDbdJGUQSOtLCreVkSQWNqbkVo/view?usp=sharing'
+    },
+    {
+      name: 'DevFest 2022 Participation',
+      body: 'Breaking the Barriers to Dive into the Future, with the topic Blockchain Technology',
+      year: 'March 2022',
+      link: 'https://drive.google.com/file/d/1r8s66X_xLooielp9xlACapDIBQADgzqq/view?usp=sharing'
+    },
+    {
+      name: 'DevFest 2022 Participation',
+      body: 'Breaking the Barriers to Dive into the Future, with the topic Artificial Intelligence',
+      year: 'March 2022',
+      link: 'https://drive.google.com/file/d/18PTTgSLGqTqFU6_bUOMVDEMuQhCoFhEA/view?usp=sharing'
+    },
+    {
+      name: 'SAP Business One - Certificate of Completion',
+      body: 'SAP BASIC (Logistics and Financials)',
+      year: 'March 2021',
+      link: 'https://drive.google.com/file/d/176SHA202Mqj9lLMVIC1qvivNksmMgGFT/view?usp=sharing'
+    },
+    {
+      name: 'Think Big! At Ideathon - Certificate of Participation',
+      body: 'IDEAL (INNOVATIVE IDEAS THAT WILL PROVIDE OTHERS AN ENHANCED AND ACCURATE LEARNING)',
+      year: 'October 2019',
+      link: 'https://drive.google.com/file/d/1rrEVQhynStmdN1OuEsGhI2iFjiL6V-IZ/view?usp=sharing'
+    },
+  ], 
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'STI College Ortigas Cainta',
+      degree: 'Bachelor of Science in Information Technology (BSIT)',
+      from: '2019',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'STI College Ortigas Cainta',
+      degree: 'Mobile App and Web Development (MAWD)',
+      from: '2017',
+      to: '2019',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
+ /* externalProjects: [
     {
       title: 'Project Name',
       description:
@@ -92,6 +112,7 @@ const config = {
       link: 'https://example.com',
     },
   ],
+  */
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev

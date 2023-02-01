@@ -27,14 +27,13 @@ const config = {
   },
   skills: [
     'HTML',
+    'CSS',
     'JavaScript',
-    'React.js',
+    'Bootstrap',
     'Node.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'CSS',
-    'Antd',
   ],
    certifications: [
     {

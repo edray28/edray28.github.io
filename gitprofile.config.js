@@ -36,6 +36,12 @@ const config = {
     'Git',
   ],
    certifications: [
+     {
+      name: 'Foundever WCC Site IT Internship',
+      body: 'Foundever WCC Site IT 486 Hours of Internship',
+      year: 'June 2023',
+      link: 'https://drive.google.com/file/d/10LeHCtBqOIxEkXuSdShnBKNWg7ovTD14/view?usp=sharing'
+    },
     {
       name: 'SAP Business One - Certificate of Completion',
       body: 'SAP Advance (Implementation & Support)',
@@ -53,6 +59,12 @@ const config = {
       body: 'Breaking the Barriers to Dive into the Future, with the topic User Interface and User Experience Design',
       year: 'March 2022',
       link: 'https://drive.google.com/file/d/10wSIxqhDbdJGUQSOtLCreVkSQWNqbkVo/view?usp=sharing'
+    },
+    {
+      name: 'Alliance of Leading Programmers through Heuristic Adaptation (Alpha)',
+      body: 'A Certificate of Recognition given to members of Alpha in STI College Ortigas Cainta',
+      year: 'June 2021',
+      link: 'https://drive.google.com/file/d/1c9Xjy9zEvgMwadUuwQStUT8cwb6XkZz2/view?usp=sharing'
     },
     {
       name: 'DevFest 2022 Participation',

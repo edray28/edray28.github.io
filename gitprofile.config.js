@@ -17,7 +17,7 @@ const config = {
     dribbble: '',
     behance: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://edray28.github.io/',
+    website: 'bit.ly/475vdIY',
     phone: '',
     email: 'edraytuyor@gmail.com',
   },

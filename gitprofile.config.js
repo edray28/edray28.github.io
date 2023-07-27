@@ -11,13 +11,13 @@ const config = {
     },
   },
   social: {
-    linkedin: 'vexp27',
+    linkedin: 'edray28',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
     stackoverflow: '', // format: userid/username
-    website: 'bit.ly/475vdIY',
+    website: 'https://charming-liger-3527e0.netlify.app/',
     phone: '',
     email: 'edraytuyor@gmail.com',
   },

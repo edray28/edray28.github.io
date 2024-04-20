@@ -36,6 +36,27 @@ const config = {
     'Git',
   ],
    certifications: [
+    {
+      name: 'Introduction to Packet Tracer',
+      body: 'Cisco Networking Academy introduction to Packet Tracer Badge',
+      year: 'Feb 2024',
+      link: 'https://drive.google.com/file/d/11ZEQaZG4F0FQ5mSfw9JDf2SrVskqlfRC/view?usp=sharing'
+    },
+     
+    {
+      name: 'Introduction to Cybersecurity',
+      body: 'Cisco Networking Academy Introduction to Cybersecurity Badge',
+      year: 'Dec 2023',
+      link: 'https://drive.google.com/file/d/1QNrREX5GDqK_LyapkcWZMqaFRAJheE_u/view?usp=sharing'
+    },
+
+     {
+      name: 'Computer Hardware Basics',
+      body: 'Cisco Networking Academy Computer Hardware Basics Badge',
+      year: 'Dec 2023',
+      link: 'https://drive.google.com/file/d/1uVicqwdga8T80nxmwud-NY6sKIUGFrw6/view?usp=sharing'
+    },
+     
      {
       name: 'Foundever WCC Site IT Internship',
       body: 'Foundever WCC Site IT 486 Hours of Internship',
